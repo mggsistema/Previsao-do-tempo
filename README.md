@@ -11,4 +11,6 @@
  <p>- JavaScript</>
   <br>
   <br>
-<img src="https://github.com/mggsistema/Previsao-do-tempo/blob/main/src/Previs%C3%A3o%20do%20tempo.png?raw=true" alt="previsao-do-tempo" width="400px" align="center"/>
+  <h1 align="center">
+<img src="https://github.com/mggsistema/Previsao-do-tempo/blob/main/src/Previs%C3%A3o%20do%20tempo.png?raw=true" alt="previsao-do-tempo" width="400px"/>
+</h1>
