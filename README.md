@@ -8,7 +8,7 @@
  <br>
  <h3 align="center">Tecnologias utilizadas</h3>                                                                         
   <br>
-  <p>- HTML</>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt Html5"/>
  <p>- CSS</>
  <p>- JavaScript</>
   <br>
